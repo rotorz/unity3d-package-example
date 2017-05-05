@@ -1,0 +1,1 @@
+This file is not in the "assets" directory so it will not be copied into Unity projects!
