@@ -1,6 +1,6 @@
 {
   "name": "unity3d-package-example",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An example package for use with the 'unity3d-package-syncer' command line utility.",
   "main": "index.js",
   "scripts": {
